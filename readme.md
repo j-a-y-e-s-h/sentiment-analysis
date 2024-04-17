@@ -73,6 +73,10 @@ sentiment-analysis/
    python sentiment_analysis.py
 ```
 
+4. Change data.
+If you want to change data or analysis in new data. change the data in `read.txt` file 
+
+
 ## Contribution 🤝
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
