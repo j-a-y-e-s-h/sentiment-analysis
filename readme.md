@@ -67,7 +67,11 @@ sentiment-analysis/
    pip install -r requirements.txt
 ```
 
-3. Run the Jupyter Notebook or Python script to perform sentiment analysis.
+3. Run the Python script to perform sentiment analysis.
+```python
+
+   python sentiment_analysis.py
+```
 
 ## Contribution 🤝
 
