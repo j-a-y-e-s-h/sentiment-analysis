@@ -89,4 +89,12 @@ This project utilizes the NLTK library, scikit-learn, and matplotlib for sentime
 
 Feel free to explore the project and provide feedback! If you find it useful, don't forget to give it a ⭐️!
 
+---
+
+# All Rights Reserved 📝🔒
+
+All rights reserved to Jayesh.
+
+For more information, visit [Jayesh's GitHub Profile](https://github.com/j-a-y-e-s-h) 🌟.
+
 
